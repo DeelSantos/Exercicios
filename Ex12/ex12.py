@@ -6,7 +6,7 @@ desconto = (produto * 5) / 100
 
 novo_valor = produto - desconto
 
-print(f"O novo valor do seu desconto é {novo_valor:.2f}")
+print(f"O novo valor do seu desconto é R${novo_valor:.2f}")
 
 
 
