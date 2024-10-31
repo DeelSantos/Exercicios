@@ -8,4 +8,4 @@ preco_km = km_rodado * 0.15
 
 total_pagamento = preco_dia + preco_km
 
-print(f"O preço pelos dias foi de R${preco_dia:.2f}\nO preço pelos km foi {preco_km:.2f}km\n e o total a pagar é R${total_pagamento:.2f}")
+print(f"O preço pelos dias foi de R${preco_dia:.2f}\nO preço pelos km foi {preco_km:.2f}km.\nO total a pagar é R${total_pagamento:.2f}")
