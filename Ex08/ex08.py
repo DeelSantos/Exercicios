@@ -1,6 +1,6 @@
 # Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
-metro = float(input("Digite o seu metro: "))
+metro = int(input("Digite o seu metro: "))
 
 
 km = metro / 1000
